@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1110" height="830" viewBox="0 0 1110 830">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.015" y1="0.5" x2="1.02" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a9b5fe"/>
+      <stop offset="0.316" stop-color="#c78bf8"/>
+      <stop offset="0.676" stop-color="#b39bfd"/>
+      <stop offset="1" stop-color="#adc2fb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.288" x2="1.234" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7c5bff"/>
+      <stop offset="1" stop-color="#d45eb0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1.151" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3d57ff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1.252" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#743cd6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.16" y1="0.178" x2="0.851" y2="0.832" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d3606b"/>
+      <stop offset="0.27" stop-color="#a14aa0"/>
+      <stop offset="0.55" stop-color="#6c33db"/>
+      <stop offset="1" stop-color="#5a81ff"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_584" data-name="그룹 584" transform="translate(-405 -5340)">
+    <rect id="사각형_730" data-name="사각형 730" width="830" height="255" rx="127.5" transform="translate(660 5340) rotate(90)" opacity="0.2" fill="url(#linear-gradient)"/>
+    <g id="그룹_574" data-name="그룹 574" transform="translate(0 -2736)">
+      <rect id="사각형_722" data-name="사각형 722" width="2" height="500" rx="1" transform="translate(710 8680) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_720" data-name="사각형 720" width="2" height="15" rx="1" transform="translate(710 8679.732) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_559" data-name="그룹 559" transform="translate(0 -3193)">
+      <g id="그룹_496" data-name="그룹 496">
+        <rect id="사각형_717" data-name="사각형 717" width="255" height="237" transform="translate(1260 8536)" opacity="0.06" fill="url(#linear-gradient-4)"/>
+        <rect id="사각형_713" data-name="사각형 713" width="255" height="3" transform="translate(1260 8533)" fill="#3d57ff"/>
+      </g>
+      <text id="AD_Registration_Service" data-name="AD
+Registration
+Service" transform="translate(1388 8625)" fill="#222" font-size="32" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-23.328" y="0">AD</tspan><tspan x="-94.912" y="40">Registration</tspan><tspan x="-56.272" y="80">Service</tspan></text>
+    </g>
+    <g id="그룹_560" data-name="그룹 560" transform="translate(0 -2929)">
+      <rect id="사각형_717-2" data-name="사각형 717" width="255" height="563" transform="translate(1260 8536)" opacity="0.06" fill="url(#linear-gradient-5)"/>
+      <rect id="사각형_713-2" data-name="사각형 713" width="255" height="3" transform="translate(1260 8533)" fill="#743cd6"/>
+    </g>
+    <text id="NFT_Marketplace" data-name="NFT
+Marketplace" transform="translate(1388 5863)" fill="#222" font-size="32" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-31.44" y="0">NFT</tspan><tspan x="-95.84" y="40">Marketplace</tspan></text>
+    <text id="Service_User" data-name="Service
+User" transform="translate(533 5747)" fill="#222" font-size="32" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-56.272" y="0">Service</tspan><tspan x="-35.168" y="40">User</tspan></text>
+    <g id="그룹_561" data-name="그룹 561" transform="translate(0 -3174)">
+      <g id="그룹_495" data-name="그룹 495" transform="translate(0 3207)">
+        <g id="레이어_2" data-name="레이어 2" transform="translate(880 5791)" opacity="0.1">
+          <circle id="타원_12" data-name="타원 12" cx="81" cy="81" r="81" transform="translate(-1 -1)" fill="#fff" stroke="#3314a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="6"/>
+          <g id="레이어_1" data-name="레이어 1">
+            <g id="그룹_3" data-name="그룹 3">
+              <circle id="타원_1" data-name="타원 1" cx="80" cy="80" r="80" fill="url(#linear-gradient-6)"/>
+              <path id="패스_3" data-name="패스 3" d="M85.225,149.451a64.225,64.225,0,1,1,64.225-64.225A64.3,64.3,0,0,1,85.225,149.451ZM85.225,24a61.221,61.221,0,1,0,61.221,61.221A61.289,61.289,0,0,0,85.225,24Z" transform="translate(-5.225 -5.225)" fill="#fff"/>
+              <g id="그룹_2" data-name="그룹 2" transform="translate(37.642 49.345)">
+                <path id="패스_4" data-name="패스 4" d="M50.7,120.6c2.817.751,10.4-.158,13.792-.623a2.215,2.215,0,0,0,1.885-1.885c.834-5.859,3.268-19.651,5.093-29.829-2.321-7.579-4.4-14.971-6.325-20.537-8.511,8.721-17.4,52.086-14.453,52.875Z" transform="translate(-50.11 -66.195)" fill="#fff"/>
+                <path id="패스_5" data-name="패스 5" d="M139.689,66.68a181.912,181.912,0,0,0-6.009,18.141c1.855,10.261,4.747,26.516,5.671,33.014a2.215,2.215,0,0,0,1.885,1.885c3.388.466,10.975,1.367,13.792.623,3.057-.811-6.573-47.234-15.339-53.656Z" transform="translate(-70.905 -65.936)" fill="#fff"/>
+                <path id="패스_6" data-name="패스 6" d="M73.278,65.69h.3c10.945,0,19.44,31.256,24.781,31.256,5.6,0,9.585-31.256,23.947-31.256h.391c-7.925,10.7-12.327,51.944-24.608,51.944-12.417,0-19.208-42.148-24.819-51.944Z" transform="translate(-55.873 -65.69)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="그룹_498" data-name="그룹 498" transform="translate(0 2)">
+        <text id="Service_App" data-name="Service App" transform="translate(960 9090)" fill="#222" font-size="32" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-90.976" y="0">Service App</tspan></text>
+        <text id="Platform" transform="translate(960 9057)" fill="#222" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-31.504" y="0">Platform</tspan></text>
+      </g>
+    </g>
+    <g id="그룹_562" data-name="그룹 562" transform="translate(0 -3190)">
+      <rect id="사각형_722-2" data-name="사각형 722" width="2" height="500" rx="1" transform="translate(710 8680) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_720-2" data-name="사각형 720" width="2" height="15" rx="1" transform="translate(710 8679.732) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_563" data-name="그룹 563" transform="translate(0 -2954)">
+      <rect id="사각형_722-3" data-name="사각형 722" width="2" height="500" rx="1" transform="translate(710 8680) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_720-3" data-name="사각형 720" width="2" height="15" rx="1" transform="translate(710 8679.732) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_578" data-name="그룹 578" transform="translate(0 -2566)">
+      <rect id="사각형_722-4" data-name="사각형 722" width="2" height="500" rx="1" transform="translate(710 8680) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_720-4" data-name="사각형 720" width="2" height="15" rx="1" transform="translate(710 8679.732) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_564" data-name="그룹 564" transform="translate(0 -3193)">
+      <rect id="사각형_719" data-name="사각형 719" width="2" height="500" rx="1" transform="translate(710 8641) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_721" data-name="사각형 721" width="2" height="15" rx="1" transform="translate(1195.995 8633.628) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_565" data-name="그룹 565" transform="translate(0 -2957)">
+      <rect id="사각형_719-2" data-name="사각형 719" width="2" height="500" rx="1" transform="translate(710 8641) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_721-2" data-name="사각형 721" width="2" height="15" rx="1" transform="translate(1195.995 8633.628) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_566" data-name="그룹 566" transform="translate(0 -2777)">
+      <rect id="사각형_719-3" data-name="사각형 719" width="2" height="156" rx="1" transform="translate(710 8641) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_721-3" data-name="사각형 721" width="2" height="15" rx="1" transform="translate(852 8633.628) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_567" data-name="그룹 567" transform="translate(344 -2777)">
+      <rect id="사각형_719-4" data-name="사각형 719" width="2" height="156" rx="1" transform="translate(710 8641) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_721-4" data-name="사각형 721" width="2" height="15" rx="1" transform="translate(852 8633.628) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_577" data-name="그룹 577" transform="translate(0 -2569)">
+      <rect id="사각형_719-5" data-name="사각형 719" width="2" height="500" rx="1" transform="translate(710 8641) rotate(-90)" fill="url(#linear-gradient-2)"/>
+      <rect id="사각형_721-5" data-name="사각형 721" width="2" height="15" rx="1" transform="translate(1195.995 8633.628) rotate(-60)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="그룹_568" data-name="그룹 568" transform="translate(-2 -3197)">
+      <text id="Request" transform="translate(875 8629)" fill="#021fd6" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-29.448" y="0">Request</tspan></text>
+      <text id="Recovery" transform="translate(945 8629)" fill="#021fd6" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-32.84" y="0">Recovery</tspan></text>
+      <text id="Watching_AD" data-name="Watching AD" transform="translate(1032 8629)" fill="#021fd6" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-46.224" y="0">Watching AD</tspan></text>
+    </g>
+    <g id="그룹_569" data-name="그룹 569" transform="translate(15 -2961)">
+      <text id="Use_Token" data-name="Use Token" transform="translate(945 8629)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-36.536" y="0">Use Token</tspan></text>
+    </g>
+    <g id="그룹_570" data-name="그룹 570" transform="translate(-157 -2779)">
+      <text id="NFT_Issuance_and_Registration" data-name="NFT Issuance
+and Registration" transform="translate(945 8607)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-46.224" y="0">NFT Issuance</tspan><tspan x="-58.704" y="20">and Registration</tspan></text>
+    </g>
+    <g id="그룹_571" data-name="그룹 571" transform="translate(187 -2779)">
+      <text id="NFT_Sale_Registration" data-name="NFT Sale
+Registration" transform="translate(945 8607)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-30.784" y="0">NFT Sale</tspan><tspan x="-43.592" y="20">Registration</tspan></text>
+    </g>
+    <g id="그룹_575" data-name="그룹 575" transform="translate(2 -2573)">
+      <text id="Use_of_services" data-name="Use of services" transform="translate(846 8629)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-52.752" y="0">Use of services</tspan></text>
+      <text id="In-app_activities" data-name="In-app activities" transform="translate(907 8629)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="0" y="0">In-app activities</tspan></text>
+      <text id="Social_sharing" data-name="Social sharing" transform="translate(1026 8629)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="0" y="0">Social sharing</tspan></text>
+    </g>
+    <g id="그룹_572" data-name="그룹 572" transform="translate(-2 -3113)">
+      <text id="Reward_Token" data-name="Reward Token" transform="translate(962 8629)" fill="#021fd6" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-50.544" y="0">Reward Token</tspan></text>
+    </g>
+    <g id="그룹_573" data-name="그룹 573" transform="translate(-2 -2877)">
+      <text id="Purchase_Content_NFT" data-name="Purchase Content &amp; NFT" transform="translate(962 8629)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-86.584" y="0">Purchase Content &amp; NFT</tspan></text>
+    </g>
+    <g id="그룹_579" data-name="그룹 579" transform="translate(-2 -2489)">
+      <text id="Purchase_Content_NFT-2" data-name="Purchase Content &amp; NFT" transform="translate(962 8629)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-86.584" y="0">Purchase Content &amp; NFT</tspan></text>
+    </g>
+    <g id="그룹_576" data-name="그룹 576" transform="translate(-2 -2659)">
+      <text id="Token_Sales_Revenue_" data-name="Token (Sales Revenue)" transform="translate(962 8629)" fill="#5013bb" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-78.976" y="0">Token (Sales Revenue)</tspan></text>
+    </g>
+  </g>
+</svg>

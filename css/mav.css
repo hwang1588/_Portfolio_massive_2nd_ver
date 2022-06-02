@@ -1,0 +1,407 @@
+.bg-1 {
+  background: url(../img/bg.jpg) top center no-repeat;
+  width: 100%;
+  height: 970px;
+}
+
+/* header */
+header a,
+header a img {
+  width: 72px;
+  height: 72px;
+  display: block;
+}
+
+/* main-title */
+.main-title {
+  margin-top: 500px !important;
+}
+
+/* contents */
+.con > div .row {
+  position: relative;
+  height: 360px;
+}
+
+.con .con-title {
+  position: absolute;
+  left: 0;
+  top: 23%;
+}
+
+.con .con-img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.con .con-text {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  padding-left: 32px;
+}
+
+.con .con-title p:first-child {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.con .con-img > div {
+  width: 410px;
+  height: 360px;
+}
+
+.con .con-1 div {
+  background: url(../img/img_con_bg_1.svg) center center no-repeat;
+}
+
+.con .con-2 div {
+  background: url(../img/img_con_bg_1.svg) center center no-repeat;
+}
+
+.con .con-3 div {
+  background: url(../img/img_con_bg_2.svg) center center no-repeat;
+}
+
+.con .con-4 div {
+  background: url(../img/img_con_bg_2.svg) center center no-repeat;
+}
+
+.con .con-5 div {
+  background: url(../img/img_con_bg_2.svg) center center no-repeat;
+}
+
+.con .con-img img {
+  width: 410px;
+  height: auto;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  transition: 0.5s;
+}
+
+.con .con-img.con-1 img {
+  left: 46%;
+  top: 43%;
+}
+
+.con .con-img.con-2 img {
+  left: 51%;
+  top: 50%;
+}
+
+.con .con-img.con-3 img {
+  left: 52%;
+  top: 48%;
+}
+
+.con .con-img.con-4 img {
+  left: 50%;
+  top: 53%;
+}
+
+.con .con-img.con-5 img {
+  left: 53%;
+  top: 55%;
+}
+
+
+.con .con-img img:hover {
+  transform: translate(-50%, -50%) scale(1.07);
+  transition: all ease 0.3s;
+}
+
+.con-bg {
+  width: 100%;
+  height: 240px;
+  position: relative;
+}
+
+.con-bg img {
+  position: absolute;
+  width: 6px;
+  height: 71px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* features */
+.features .features-1 {
+  position: relative;
+  background: url(../img/img_feature_1.svg) center center no-repeat;
+  width: 270px;
+  height: 270px;
+}
+
+.features .features-2 {
+  position: relative;
+  background: url(../img/img_feature_2.svg) center center no-repeat;
+  width: 270px;
+  height: 270px;
+}
+
+.features .features-3 {
+  position: relative;
+  background: url(../img/img_feature_3.svg) center center no-repeat;
+  width: 270px;
+  height: 270px;
+}
+
+.features .features-4 {
+  position: relative;
+  background: url(../img/img_feature_4.svg) center center no-repeat;
+  width: 270px;
+  height: 270px;
+}
+
+.features .row div p {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.features .hover-title {
+  color: rgba(3, 1, 3, 1);
+  transition: all ease 0.3s;
+}
+
+.features .row div:hover .hover-title {
+  color: rgba(3, 1, 3, 0);
+  transition: all ease 0.3s;
+}
+
+.features .hover-text {
+  color: rgba(3, 1, 3, 0);
+  transition: all ease 0.3s;
+}
+
+.features .row div:hover .hover-text {
+  color: rgba(3, 1, 3, 1);
+  transition: all ease 0.3s;
+}
+
+/* tokenomics */
+.tokenomics .icon,
+.tokenomics .icon img {
+  width: 160px;
+  height: 160px;
+}
+
+/* nft */
+.nft {
+  position: relative;
+  height: 395px;
+}
+
+.nft .nft-img {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.nft .nft-text {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.nft div img {
+  width: 600px;
+  height: 395px;
+  display: block;
+}
+
+/* faq */
+.faq-bg {
+  background-color: #f5f5f5;
+}
+
+.faq {
+  padding-bottom: 120px;
+}
+
+.faq > div {
+  background-color: #fff;
+  border: 1px solid #eeeeee;
+  border-radius: 10px;
+}
+
+.faq div p {
+  float: left;
+}
+
+.faq .icon {
+  float: right;
+  width: 28px;
+  height: 28px;
+  margin: 24px;
+  background: url(../img/icon_plus.svg) center center no-repeat;
+}
+
+.faq .icon.on {
+  background: url(../img/icon_minus.svg) center center no-repeat;
+}
+
+.faq-text {
+  display: none;
+  border-top: 1px solid #f5f5f5;
+  padding-top: 24px;
+}
+
+.faq-text.on {
+  display: block;
+}
+
+/* btn */
+.btn {
+  position: fixed;
+  right: 32px;
+  bottom: 32px;
+}
+
+.btn div {
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 2px solid #6B49D5;
+  border-radius: 36px;
+}
+
+.btn div img {
+  width: 68px;
+  height: 68px;
+}
+
+.btn .top {
+  display: none;
+  margin-top: 16px;
+}
+
+.btn .top.on {
+  display: block;
+}
+
+/* footer */
+footer {
+  border-top: 1px solid #ddd;
+  margin-top: 120px;
+  padding: 0 120px;
+}
+
+footer a,
+footer a img {
+  width: 36px;
+  height: 36px;
+  display: block;
+  margin: 0 auto;
+}
+
+.eco-1 {
+  position: absolute;
+  width: 10%;
+  margin-top: 150px;
+  margin-left: 300px;
+}
+
+.eco-2 {
+  position: absolute;
+  width: 15%;
+  margin-top: 0px;
+  margin-left: 200px;
+}
+
+.eco-3 {
+  position: absolute;
+  width: 25%;
+  margin-top: -150px;
+  margin-left: 100px;
+}
+
+.eco-4 {
+  position: absolute;
+  width: 30%;
+  margin-top: -180px;
+  margin-left: 30px;
+}
+
+.team.height {
+  height: 450px
+}
+
+.team_subs {
+  display: none;
+}
+
+.team:hover .team_subs {
+  display: block !important;
+  background-color: rgba(94, 30, 204, 85%);
+  background: -webkit-linear-gradient(180deg, rgba(94, 30, 204, 85%), rgb(115 30 204 / 85%));
+  background: linear-gradient(180deg, rgba(94, 30, 204, 85%), rgb(115 30 204 / 85%));
+  padding: 24px 10px;
+  border-radius: 10px;
+  font-family: 'ubuntu';
+  font-size: 16px;
+  font-weight: 300;
+  animation-duration: 1s;
+  animation-name: slidein;
+  animation-fill-mode: forwards;
+  width: 330px;
+  margin: 0 auto;
+}
+
+.team_subs_triangle {
+  content: '';
+  width: 100%;
+  height: 0;
+  display: block;
+}
+
+.team_subs_triangle img {
+  margin-top: -89px;
+  opacity: 99%
+}
+
+
+@keyframes slidein {
+  0% {
+    opacity: 0
+  }
+
+  100% {
+    opacity: 1
+  }
+}
+
+@keyframes slideout {
+  0% {
+    opacity: 1
+  }
+
+  100% {
+    opacity: 0
+  }
+}
+
+/*.team_img_neon{visibility: hidden}*/
+
+
+.team_img_neon {
+  display: none;
+}
+
+.team:hover .team_img {
+  display: none;
+}
+
+.team:hover .team_img_neon {
+  display: block;
+  margin: 0 auto;
+  cursor: pointer
+}
+
+.team:hover .team_img {
+  display: none;
+}
+

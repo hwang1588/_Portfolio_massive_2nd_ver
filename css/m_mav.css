@@ -1,0 +1,143 @@
+.bg-1 {
+  background: url(../img/m_bg.jpg) top center no-repeat;
+  width: 100%;
+  height: auto;
+  padding-bottom: 60px;
+}
+
+/* header */
+header a,
+header a img {
+  width: 32px;
+  height: 32px;
+  display: block;
+}
+
+/* main-title */
+.main-title > div:nth-child(1) {
+  width: 85%;
+}
+
+.main-title img {
+  width: 100%;
+  height: auto;
+}
+
+
+/* contents */
+.con .con-title p:first-child {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.con .con-img {
+  width: 90%;
+}
+
+.con .con-img img {
+  width: 100%;
+  height: auto;
+}
+
+/* nft */
+.nft-img {
+  width: 85%;
+}
+
+.nft-img img {
+  width: 100%;
+  height: auto;
+}
+
+/* features */
+.features-img {
+  width: 100%;
+}
+
+.features-img img {
+  width: 100%;
+  height: auto;
+}
+
+/* tokenomics */
+.tokenomics div img {
+  width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* ad */
+.ad div img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* distribution */
+.distribution img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* roadmap */
+.roadmap img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* btn */
+.btn {
+  position: fixed;
+  right: 2%;
+  bottom: 2%;
+}
+
+.btn div {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid #6B49D5;
+  border-radius: 22px;
+}
+
+.btn div img {
+  width: 40px;
+  height: 40px;
+}
+
+/* footer */
+footer {
+  border-top: 1px solid #ddd;
+  margin-top: 60px;
+  padding: 0 60px;
+}
+
+footer a,
+footer a img {
+  width: 32px;
+  height: 32px;
+  display: block;
+}
+
+
+
+@media all and (min-width: 768px) {
+
+  /* main-title */
+  .main-title > div:nth-child(1) {
+    width: 60%;
+  }
+
+  .main-title img {
+    width: 100%;
+    height: auto;
+  }
+
+  /* contents */
+  .con .con-img {
+    width: 55%;
+  }
+}

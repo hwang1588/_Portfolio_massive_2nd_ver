@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="542.808" height="544" viewBox="0 0 542.808 544">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.015" y1="0.5" x2="1.02" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a9b5fe"/>
+      <stop offset="0.297" stop-color="#ebd4ff"/>
+      <stop offset="0.499" stop-color="#fde5ff"/>
+      <stop offset="0.676" stop-color="#e5dcff"/>
+      <stop offset="1" stop-color="#adc2fb"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.637" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.426" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f5f7ff"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0.214" y1="0.01" x2="0.879" y2="0.933" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d3606b"/>
+      <stop offset="0.498" stop-color="#7a39cc"/>
+      <stop offset="1" stop-color="#5a80ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="-0.159" x2="0.176" y2="2.299" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d3606c"/>
+      <stop offset="0.523" stop-color="#863ebe"/>
+      <stop offset="1" stop-color="#5b7bfc"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_583" data-name="그룹 583" transform="translate(-708 -7492)">
+    <g id="사각형_723" data-name="사각형 723" transform="translate(708 7853.002) rotate(-90)" stroke="#e2ceff" stroke-width="1" opacity="0.2" fill="url(#linear-gradient)">
+      <rect width="183.002" height="542.808" rx="91.501" stroke="none"/>
+      <rect x="0.5" y="0.5" width="182.002" height="541.808" rx="91.001" fill="none"/>
+    </g>
+    <g id="타원_19" data-name="타원 19" transform="translate(1080 7682)" stroke="#eceeff" stroke-width="1" fill="url(#radial-gradient)">
+      <circle cx="80" cy="80" r="80" stroke="none"/>
+      <circle cx="80" cy="80" r="79.5" fill="none"/>
+    </g>
+    <g id="그룹_521" data-name="그룹 521" transform="translate(3344 -1052)">
+      <circle id="타원_7" data-name="타원 7" cx="80" cy="80" r="80" transform="translate(-2611 8544)" fill="#658eff" opacity="0.5"/>
+      <text id="User" transform="translate(-2531 8631)" fill="#fff" font-size="18" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-18.27" y="0">User</tspan></text>
+    </g>
+    <g id="그룹_522" data-name="그룹 522" transform="translate(3018 -672.635)">
+      <circle id="타원_8" data-name="타원 8" cx="80" cy="80" r="80" transform="translate(-2285 8548.635)" fill="#a265ff" opacity="0.5"/>
+      <text id="Seller_Creator_" data-name="Seller
+(Creator)" transform="translate(-2205 8624.635)" fill="#fff" font-size="18" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-22.473" y="0">Seller</tspan><tspan x="-35.856" y="22">(Creator)</tspan></text>
+    </g>
+    <text id="NFT_Marketplace" data-name="NFT
+Marketplace" transform="translate(1160 7758)" fill="#6f51dd" font-size="18" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-16.119" y="0">NFT</tspan><tspan x="-49.662" y="22">Marketplace</tspan></text>
+    <circle id="타원_20" data-name="타원 20" cx="80" cy="80" r="80" transform="translate(1080 7876)" fill="url(#linear-gradient-2)"/>
+    <text id="Metaverse_Community_Platform_" data-name="Metaverse
+Community
+(Platform)" transform="translate(1160 7941)" fill="#fff" font-size="18" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-42.183" y="0">Metaverse</tspan><tspan x="-46.377" y="22">Community</tspan><tspan x="-40.905" y="44">(Platform)</tspan></text>
+    <text id="Disclosure_of_Personal_Token_NFT" data-name="Disclosure of 
+Personal Token &amp; NFT" transform="translate(981 7994.739)" fill="#c2a3f1" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-47.976" y="0">Disclosure of </tspan><tspan x="-77.136" y="20">Personal Token &amp; NFT</tspan></text>
+    <text id="Purchase_Token_NFT" data-name="Purchase 
+Token &amp; NFT" transform="translate(981 7908.515)" fill="#f1a3dc" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-34.216" y="0">Purchase </tspan><tspan x="-44.624" y="20">Token &amp; NFT</tspan></text>
+    <text id="Service_App" data-name="Service
+App" transform="translate(768.306 7758)" fill="#a5b8f4" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-25.48" y="0">Service</tspan><tspan x="-14.456" y="20">App</tspan></text>
+    <text id="NFT_Issuance" data-name="NFT Issuance" transform="translate(965 7791.001)" fill="#c4a3f4" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-46.224" y="0">NFT Issuance</tspan></text>
+    <text id="Provide_NFT" data-name="Provide NFT" transform="translate(965 7740.053)" fill="#f1a3dc" font-size="16" font-family="Ubuntu-Light, Ubuntu" font-weight="300"><tspan x="-43.32" y="0">Provide NFT</tspan></text>
+    <path id="패스_3835" data-name="패스 3835" d="M-46.323,0l-3.888-10.926h-.072q.036.378.063.981t.045,1.314q.018.711.018,1.377V0h-1.764V-12.852h2.772l3.69,10.314h.072l3.8-10.314h2.772V0h-1.89V-7.362q0-.63.027-1.3t.054-1.26l.045-.99h-.072L-44.649,0Zm14.472-9.882a4.022,4.022,0,0,1,2.727.8,3.179,3.179,0,0,1,.909,2.511V0h-1.35l-.378-1.35h-.072A4.336,4.336,0,0,1-31.338-.189,4.122,4.122,0,0,1-33.255.18a3.314,3.314,0,0,1-2.178-.711A2.714,2.714,0,0,1-36.3-2.754a2.555,2.555,0,0,1,1.125-2.259,6.535,6.535,0,0,1,3.429-.837l1.656-.054v-.54a1.957,1.957,0,0,0-.486-1.5,1.964,1.964,0,0,0-1.368-.441,4.694,4.694,0,0,0-1.422.216,9.663,9.663,0,0,0-1.314.522l-.612-1.386a7.767,7.767,0,0,1,1.575-.6A7.05,7.05,0,0,1-31.851-9.882Zm1.746,5.22-1.3.036a4.273,4.273,0,0,0-2.3.558,1.582,1.582,0,0,0-.639,1.332,1.291,1.291,0,0,0,.45,1.1,1.882,1.882,0,0,0,1.17.342,2.79,2.79,0,0,0,1.863-.63,2.333,2.333,0,0,0,.747-1.89Zm9.612-5.22a5.842,5.842,0,0,1,1.062.09l-.2,1.782a3.723,3.723,0,0,0-.972-.126,2.71,2.71,0,0,0-1.368.36,2.72,2.72,0,0,0-1.017,1.035,3.224,3.224,0,0,0-.387,1.629V0h-1.908V-9.7h1.512l.252,1.728h.072a4.489,4.489,0,0,1,1.206-1.341A2.831,2.831,0,0,1-20.493-9.882Zm4.752-3.8v6.84q0,.36-.036.864t-.054.9h.054q.2-.27.549-.711t.621-.729l2.97-3.186h2.214l-3.906,4.158L-9.171,0h-2.25l-3.2-4.338-1.116.936V0h-1.89V-13.68Zm11.988,3.8A3.907,3.907,0,0,1-.747-8.7,4.528,4.528,0,0,1,.351-5.49v1.044H-6.165A3.332,3.332,0,0,0-5.382-2.16a2.743,2.743,0,0,0,2.1.792A7.325,7.325,0,0,0-1.62-1.539a8.572,8.572,0,0,0,1.5-.513V-.468A6.783,6.783,0,0,1-1.593.027,8.81,8.81,0,0,1-3.357.18,5.335,5.335,0,0,1-5.841-.378,3.964,3.964,0,0,1-7.524-2.034a5.627,5.627,0,0,1-.6-2.736,6.324,6.324,0,0,1,.549-2.772,4.05,4.05,0,0,1,1.53-1.737A4.294,4.294,0,0,1-3.753-9.882Zm0,1.476A2.145,2.145,0,0,0-5.4-7.74a3.085,3.085,0,0,0-.729,1.89h4.572A3.089,3.089,0,0,0-2.106-7.7,1.921,1.921,0,0,0-3.753-8.406ZM6.219-1.368A4.272,4.272,0,0,0,7.677-1.6v1.44a3.548,3.548,0,0,1-.828.243,5.591,5.591,0,0,1-1.044.1A3.777,3.777,0,0,1,4.356-.09,2.172,2.172,0,0,1,3.3-1.026a3.638,3.638,0,0,1-.4-1.854V-8.244H1.557v-.864l1.422-.72.666-2.052h1.17V-9.7H7.587v1.458H4.815v5.328A1.572,1.572,0,0,0,5.2-1.746,1.393,1.393,0,0,0,6.219-1.368Zm8.244-8.514a3.51,3.51,0,0,1,2.826,1.26A5.719,5.719,0,0,1,18.351-4.86a5.7,5.7,0,0,1-1.08,3.753A3.512,3.512,0,0,1,14.445.18a3.569,3.569,0,0,1-1.8-.405,3.606,3.606,0,0,1-1.116-.963H11.4q.036.324.081.765a7.809,7.809,0,0,1,.045.783V4.32H9.621V-9.7h1.548l.27,1.3h.09A3.629,3.629,0,0,1,12.636-9.45,3.417,3.417,0,0,1,14.463-9.882Zm-.45,1.566a2.194,2.194,0,0,0-1.908.774,4.165,4.165,0,0,0-.576,2.376v.288a5.087,5.087,0,0,0,.54,2.592,2.116,2.116,0,0,0,1.98.9,1.912,1.912,0,0,0,1.764-.972A4.937,4.937,0,0,0,16.389-4.9,4.623,4.623,0,0,0,15.8-7.4,1.977,1.977,0,0,0,14.013-8.316ZM22.689,0H20.781V-13.68h1.908Zm6.75-9.882a4.022,4.022,0,0,1,2.727.8,3.179,3.179,0,0,1,.909,2.511V0h-1.35l-.378-1.35h-.072A4.336,4.336,0,0,1,29.952-.189,4.122,4.122,0,0,1,28.035.18a3.314,3.314,0,0,1-2.178-.711,2.714,2.714,0,0,1-.864-2.223,2.555,2.555,0,0,1,1.125-2.259,6.535,6.535,0,0,1,3.429-.837L31.2-5.9v-.54a1.957,1.957,0,0,0-.486-1.5,1.964,1.964,0,0,0-1.368-.441,4.694,4.694,0,0,0-1.422.216,9.663,9.663,0,0,0-1.314.522L26-9.036a7.767,7.767,0,0,1,1.575-.6A7.05,7.05,0,0,1,29.439-9.882Zm1.746,5.22-1.3.036a4.273,4.273,0,0,0-2.3.558,1.582,1.582,0,0,0-.639,1.332,1.291,1.291,0,0,0,.45,1.1,1.882,1.882,0,0,0,1.17.342,2.79,2.79,0,0,0,1.863-.63,2.333,2.333,0,0,0,.747-1.89ZM39.915.18a4.435,4.435,0,0,1-3.24-1.2,5.081,5.081,0,0,1-1.224-3.771A6.2,6.2,0,0,1,36.045-7.7a3.778,3.778,0,0,1,1.638-1.647,5.168,5.168,0,0,1,2.376-.531,6.835,6.835,0,0,1,1.521.162,5.293,5.293,0,0,1,1.179.4l-.576,1.548q-.5-.18-1.062-.333a4.078,4.078,0,0,0-1.08-.153q-2.628,0-2.628,3.456a4.154,4.154,0,0,0,.648,2.52,2.236,2.236,0,0,0,1.908.864,5.177,5.177,0,0,0,1.422-.18,5.509,5.509,0,0,0,1.152-.468V-.414a4.072,4.072,0,0,1-1.134.45A6.629,6.629,0,0,1,39.915.18Zm8.73-10.062A3.907,3.907,0,0,1,51.651-8.7a4.528,4.528,0,0,1,1.1,3.213v1.044H46.233a3.332,3.332,0,0,0,.783,2.286,2.743,2.743,0,0,0,2.1.792,7.325,7.325,0,0,0,1.665-.171,8.572,8.572,0,0,0,1.5-.513V-.468a6.782,6.782,0,0,1-1.476.495A8.81,8.81,0,0,1,49.041.18a5.335,5.335,0,0,1-2.484-.558,3.964,3.964,0,0,1-1.683-1.656,5.627,5.627,0,0,1-.6-2.736,6.324,6.324,0,0,1,.549-2.772,4.05,4.05,0,0,1,1.53-1.737A4.294,4.294,0,0,1,48.645-9.882Zm0,1.476A2.145,2.145,0,0,0,47-7.74a3.085,3.085,0,0,0-.729,1.89h4.572A3.089,3.089,0,0,0,50.292-7.7,1.921,1.921,0,0,0,48.645-8.406Z" transform="translate(978.921 7698.285)" fill="url(#linear-gradient-3)"/>
+    <g id="그룹_523" data-name="그룹 523" transform="translate(10136.104 10154.127) rotate(90)">
+      <g id="그룹_484" data-name="그룹 484" transform="translate(-2183.611 9215.104) rotate(180)">
+        <rect id="사각형_702" data-name="사각형 702" width="1" height="120" rx="0.5" transform="translate(6.778)" fill="#c2a3f1"/>
+        <rect id="사각형_704" data-name="사각형 704" width="1" height="10" rx="0.5" transform="translate(7.071 0) rotate(45)" fill="#c2a3f1"/>
+      </g>
+      <g id="그룹_489" data-name="그룹 489" transform="translate(-2214.389 9095.104)">
+        <rect id="사각형_702-2" data-name="사각형 702" width="1" height="120" rx="0.5" transform="translate(6.778)" fill="#f1a3dc"/>
+        <rect id="사각형_704-2" data-name="사각형 704" width="1" height="10" rx="0.5" transform="translate(7.071 0) rotate(45)" fill="#f1a3dc"/>
+      </g>
+    </g>
+    <g id="그룹_524" data-name="그룹 524" transform="translate(801 7749)">
+      <path id="패스_3835-2" data-name="패스 3835" d="M.5-92a.5.5,0,0,1,.5.5v211a.5.5,0,0,1-1,0v-211A.5.5,0,0,1,.5-92Z" transform="translate(6.778)" fill="#a5b8f4"/>
+      <rect id="사각형_704-3" data-name="사각형 704" width="1" height="10" rx="0.5" transform="translate(0 112.929) rotate(-45)" fill="#a5b8f4"/>
+    </g>
+    <path id="패스_3836" data-name="패스 3836" d="M96.072,171.143a75.072,75.072,0,1,1,75.072-75.072A75.157,75.157,0,0,1,96.072,171.143Zm0-146.631a71.56,71.56,0,1,0,71.56,71.56A71.64,71.64,0,0,0,96.072,24.512Z" transform="translate(1064 7859.367)" fill="#fff"/>
+    <path id="패스_3837" data-name="패스 3837" d="M-2169.215,8749.419l-7.313-7.268V8839.7h242.245" transform="translate(2991 -1085.651)" fill="none" stroke="#f1a3dc" stroke-linecap="round" stroke-width="1" stroke-dasharray="2"/>
+    <path id="패스_3838" data-name="패스 3838" d="M-2176.528,8892.827V8788.151h242.983l-12.379,12.379" transform="translate(2991 -1023.651)" fill="none" stroke="#c4a3f4" stroke-linecap="round" stroke-width="1" stroke-dasharray="2"/>
+  </g>
+</svg>
